@@ -22,4 +22,4 @@ We are a decently sized team, here's a bit about us!
 
 - Cannedfart
   
-  i dont know? write your own description buddy
+  website guy
