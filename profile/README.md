@@ -1,5 +1,5 @@
 ## BrewZone
-We're a group of members working on a community-based app for the Nintendo 3DS/2DS line of systems!
+We're a group of modders working on a community-based app for the Nintendo 3DS/2DS line of systems!
 
 ### About Us
 We are a decently sized team, here's a bit about us!
