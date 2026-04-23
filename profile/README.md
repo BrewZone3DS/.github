@@ -16,10 +16,6 @@ We are a decently sized team, here's a bit about us!
   
   Excellent programmer, insanely good music composer, programs in C++ and more!
 
-- Pinecone/TheLazyCoder2009
-  
-  Hosts the project, pinecone
-
 - Cannedfart
   
   website guy
